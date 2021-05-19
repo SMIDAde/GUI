@@ -1,0 +1,40 @@
+{
+  "settings_from_name": {
+    "dataset_select": "BioEyeTex 30min",
+    "stimuli_select": "1",
+    "trajectory_visible_toggle": false,
+    "p_stim_trajectory_marker_toggle": false,
+    "marker_fixation_circle_toggle": false,
+    "marker_saccades_toggle": false,
+    "marker_fixation_count_toggle": false,
+    "marker_fixation_text_toggle": true,
+    "marker_trajectory_toggle": false,
+    "marker_trajectory_last_toggle": true,
+    "savgol_filter_frame_slider": 7,
+    "savgol_filter_poly_slider": 1,
+    "x_offset_slider": 0,
+    "y_offset_slider": 0,
+    "ivt_thresh_slider": 15,
+    "ivt_min_dur_slider": 0.05
+  },
+  "other_settings": {
+    "settings_view": {
+      "tra_x": [
+        280.4388846482714,
+        1416.4215826891084
+      ],
+      "tra_y": [
+        -68.83538268406616,
+        1117.3697083227862
+      ],
+      "vel_x": [
+        -86.55030698450662,
+        1948.8734709454425
+      ],
+      "vel_y": [
+        -3.1598384835553195,
+        32.32168678159622
+      ]
+    }
+  }
+}

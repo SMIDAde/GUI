@@ -1,0 +1,34 @@
+# emacs
+*~
+.\#*
+\#*\#
+
+# compiled
+*.pyc
+
+# IntelliJ
+.idea
+*.iml
+
+# notebook
+notebook/.ipynb_checkpoints
+.ipynb_checkpoints
+
+# cache files
+*.cache/
+
+# big datasets
+data/EM_Data
+#data/where_humans_look
+
+# pycharm enviroment
+venv*
+
+# results
+scripts/results/*
+
+# saved classifiers
+*.pickle
+
+# Logfiles
+*.log

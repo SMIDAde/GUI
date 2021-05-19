@@ -1,0 +1,31 @@
+click
+jupyter
+notebook
+numpy-indexed
+python-dotenv
+mysql-connector-python
+plotly
+seaborn
+matplotlib
+pillow
+
+# Default
+pandas
+numpy
+
+# Programming
+joblib
+PyYAML
+
+# Visualization
+bokeh>=1.1
+
+# Research
+scipy
+sklearn
+# scikit-learn 0.22.2.post1 works in Visualization for loading Evaluators. See Issue #15
+scikit-learn>=0.21,<=0.22.2.post1
+
+# for API documentation
+Sphinx
+sphinx_rtd_theme
