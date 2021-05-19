@@ -18,6 +18,6 @@ Please get in contact before you make bigger changes in the source code to coord
 
 ## Credits
 
-Christoph Schröder
-Sahar Mahdie Klim Al-Zaidawi
+Christoph Schröder  
+Sahar Mahdie Klim Al-Zaidawi  
 Martin H.U. Prinzler
