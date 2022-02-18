@@ -39,17 +39,21 @@ Maybe it is helpful to run: `export PYTHONPATH=$PWD` when you are in the SMIDA R
 
 ### Using Markdown Documentation
 
-This documentation you are reading can be used with [typora](https://typora.io/) for maximal comfort.
+This documentation you are reading is meant to be used with a markdown reader.
 
-- [ TOC ] is translated to the directory of contents
+- Some can translated `[TOC]` to a directory of contents
 
 ## Using with PyCharm
+
+- Setup [Interpreter](images/InterpreterSettings.png) e.g. a virtual environment
+- install necessary requirements
 
 ### Visualization
 
 You want to Run: **schau_mir_in_die_augen/visualization/gui_bokeh.py** 
+If it works without error message everything is fine.
 
-In `Edit Configuration` add the following parameters:
+Via [`Edit Configuration`](images/EditConfiguration.png) add the following parameters:
 
 ```
 Module name: bokeh

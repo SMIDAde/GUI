@@ -1262,7 +1262,7 @@ stimuli_select.on_change('value', stimuli_select_cb)
 
 # Users #
 #########
-user_select = MultiSelect(title="Agents / Users", value=None, options=users, width=width_one, height=110)
+user_select = MultiSelect(title="Agents / Users", value=[], options=users, width=width_one, height=110)
 # noinspection SpellCheckingInspection
 def user_select_cb(_attrname, _old, new):
     if alignment_auto_toggle.active:
